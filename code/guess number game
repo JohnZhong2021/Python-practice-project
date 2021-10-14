@@ -1,0 +1,25 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Oct 11 17:06:59 2021
+
+@author: JohnZhong
+"""
+
+#number of guessing 2021/10/11
+import random
+number_guess = random.randint(1, 10)
+j = 0
+user_guess = int(input("Please guess a number between 1-10: "))
+
+while user_guess != number_guess:
+    if user_guess > number_guess:
+        print("Wrong guess! The number is too large!")
+        user_guess = int(input("Please try another number: "))
+    elif user_guess < number_guess:
+        print("Wrong guess! The number is too small!")
+        user_guess = int(input("Please try another number: "))
+    j += 1
+else:
+    print("Bingo! Congretulations! You are right!!")
+print("The correct number is", number_guess)
+print("Your guess count is", j)
