@@ -2,7 +2,7 @@
 """
 Created on Thu Oct 14 10:13:30 2021
 
-@author: zhongqiang
+@author: JohnZhong
 """
 
 #fix bugs when user input number out of range and invalid input
