@@ -21,9 +21,9 @@ while guess_count < 10:
            if word_guess[i] not in user_guess_letter_total:
                 word_guess[i] = "*"
         return word_guess
-    print("The guessed letter is",''.join(check_word(word_guess, user_guess_letter_total)))
+    print("The guessed word is",''.join(check_word(word_guess, user_guess_letter_total)))
     if "*" not in word_guess:
         print("\nCongretulations! You win!!!")
         break
 if guess_count >=10:
-    print("Sorry, better luck next time...")
+    print("Sorry, you only have 10 times to guess, better luck next time...")
