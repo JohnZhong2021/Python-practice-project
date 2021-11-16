@@ -5,7 +5,6 @@ Created on Thu Oct 14 10:13:30 2021
 @author: JohnZhong
 """
 
-#fix bugs when user input number out of range and invalid input
 import random
 number_guess = random.randint(1, 100)
 j = 1
