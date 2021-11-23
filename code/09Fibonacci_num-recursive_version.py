@@ -9,5 +9,5 @@ def fibonacci_num(i):
         return 1
     else:
         return fibonacci_num(i - 1) + fibonacci_num(i - 2)
-for i in range(1, 25):
+for i in range(1, 45):
     print(fibonacci_num(i), end=" ")

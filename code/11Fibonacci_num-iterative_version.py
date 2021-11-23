@@ -18,6 +18,6 @@ def fibonacci_num(i):
             f1 = f
             j += 1
         return f
-for i in range(1, 80):
+for i in range(1, 45):
     print(fibonacci_num(i), end=" ")
 
