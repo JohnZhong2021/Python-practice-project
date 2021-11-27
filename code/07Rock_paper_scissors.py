@@ -7,8 +7,8 @@ Created on Mon Nov 15 19:40:19 2021
 
 from random import choice
 def user_input():
-    user_input = input("Let's play rock paper and scissors with the computer!\n\
-\nR for rock\nP for paper\nS for scissors\n")
+    user_input = input("Let's play rock paper and scissors with the computer!\
+\nR for rock\nP for paper\nS for scissors\nYour decision:")
     return user_input
 
 def check_user_move(user_input):
