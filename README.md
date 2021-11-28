@@ -1,5 +1,5 @@
 # Python-practice-project
-    Python practice project is for fun and continuos improvement coding skills;
+    Python practice project is for fun and continuous improvement coding skills;
     Every code is original written by JohnZhong;
     The subjects and requirements of codes are came from Google Search and the website:
     https://www.upgrad.com/blog/python-projects-ideas-topics-beginners; 
