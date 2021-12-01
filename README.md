@@ -34,4 +34,12 @@
    The number will then be displayed to the user. It will also ask users if they would like to roll the 
    dice again. The program should also include a function that can randomly grab a number within 1 to 6 
    and print it. This beginner-level python projects will help build a strong foundation for fundamental 
-   programming concepts.
+   programming concepts. 
+# 04Hangman
+   This is more of a “guess the word” game. The core concepts you have to use while developing this project 
+   are variables, random, integer, strings, char, input and output, and boolean. In the game, users have to 
+   enter letter guesses, and each user will have a limited number of guesses (a counter variable is needed 
+   for limiting the guesses). This is one of the interesting python projects to begin with. 
+   You can create a pre-organized list of words that users can grab words from. Also, you must include 
+   specific functions to check whether or not a user has entered a single letter or if the input letter is in 
+   the hidden word, to if the user has actually inputted a single letter, and to print the correct outcomes (letters).
