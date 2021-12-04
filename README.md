@@ -43,3 +43,7 @@
    You can create a pre-organized list of words that users can grab words from. Also, you must include 
    specific functions to check whether or not a user has entered a single letter or if the input letter is in 
    the hidden word, to if the user has actually inputted a single letter, and to print the correct outcomes (letters).
+# 05Email_slicer
+  This is one of the convenient python projects that has a lot of use in the future. The program helps get you the 
+  username and domain name from an email address. You can even customize the application and send a message to the 
+  host with this information.
