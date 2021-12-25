@@ -47,3 +47,7 @@
   This is one of the convenient python projects that has a lot of use in the future. The program helps get you the 
   username and domain name from an email address. You can even customize the application and send a message to the 
   host with this information.
+# 06Binary_search_algorithm
+  Have you ever heard the proverb, “finding a needle in a haystack.” This program is designed to do just that- by using 
+  a binary search algorithm. You can create a list of random numbers between 0 to 100, with every succeeding number 
+  having a difference of 2 between them.
