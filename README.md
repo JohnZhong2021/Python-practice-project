@@ -3,7 +3,7 @@
     Every code is original written by JohnZhong;
     The subjects and requirements of codes are came from Google Search and the website:
     https://www.upgrad.com/blog/python-projects-ideas-topics-beginners; 
-    Hope this project may help people new to python;
+    Hope this project may help people who is new to python;
     Everyone can contribute to the project by finding bugs or give some advises;
     The project begins in 2021-10-14;
     To be continue... 
